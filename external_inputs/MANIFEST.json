@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "root": "external_inputs",
+  "files": [
+    {
+      "path": "external_inputs/casbin/LICENSE",
+      "bytes": 11358,
+      "embedded_urls": [
+        "http://www.apache.org/licenses/",
+        "http://www.apache.org/licenses/LICENSE-2.0"
+      ]
+    },
+    {
+      "path": "external_inputs/casbin/NOTICE",
+      "bytes": 481,
+      "embedded_urls": []
+    },
+    {
+      "path": "external_inputs/casbin/assertions.json",
+      "bytes": 5094,
+      "embedded_urls": []
+    },
+    {
+      "path": "external_inputs/casbin/basic_model.conf",
+      "bytes": 195,
+      "embedded_urls": []
+    },
+    {
+      "path": "external_inputs/casbin/basic_policy.csv",
+      "bytes": 43,
+      "embedded_urls": []
+    },
+    {
+      "path": "external_inputs/casbin/priority_model.conf",
+      "bytes": 224,
+      "embedded_urls": []
+    },
+    {
+      "path": "external_inputs/casbin/priority_policy.csv",
+      "bytes": 288,
+      "embedded_urls": []
+    },
+    {
+      "path": "external_inputs/casbin/rbac_model.conf",
+      "bytes": 224,
+      "embedded_urls": []
+    },
+    {
+      "path": "external_inputs/casbin/rbac_policy.csv",
+      "bytes": 123,
+      "embedded_urls": []
+    },
+    {
+      "path": "external_inputs/casbin/rbac_with_deny_model.conf",
+      "bytes": 261,
+      "embedded_urls": []
+    },
+    {
+      "path": "external_inputs/casbin/rbac_with_deny_policy.csv",
+      "bytes": 180,
+      "embedded_urls": []
+    },
+    {
+      "path": "external_inputs/casbin/rbac_with_domains_model.conf",
+      "bytes": 262,
+      "embedded_urls": []
+    },
+    {
+      "path": "external_inputs/casbin/rbac_with_domains_policy.csv",
+      "bytes": 174,
+      "embedded_urls": []
+    },
+    {
+      "path": "external_inputs/casbin/rbac_with_resource_roles_model.conf",
+      "bytes": 236,
+      "embedded_urls": []
+    },
+    {
+      "path": "external_inputs/casbin/rbac_with_resource_roles_policy.csv",
+      "bytes": 154,
+      "embedded_urls": []
+    },
+    {
+      "path": "external_inputs/casbin/selection.json",
+      "bytes": 1052,
+      "embedded_urls": [
+        "https://raw.githubusercontent.com/casbin/casbin/master/"
+      ]
+    }
+  ],
+  "file_count": 16,
+  "total_bytes": 20349,
+  "note": "The exact frozen input files are distributed beside this inventory. Paths and byte counts support completeness checks; no project-authored checksum or whole-source fingerprint is part of release acceptance."
+}
